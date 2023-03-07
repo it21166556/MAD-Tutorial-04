@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MAD_Tutorial04</string>
+    <string name="Header_Value">Register Student</string>
+    <string name="Student_Id_value">Enter Student ID</string>
+    <string name="tvYear_value">Select Accadamic Year</string>
+    <string name="semester_value">Select the Semester</string>
+    <string name="cbAgree_value">I agree to terms and conditions</string>
+    <string name="btn1_value">SUBMIT</string>
+    <string name="btn2_value">CANCEL</string>
+
+    <string-array name="years">
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="semesters">
+        <item>Semester 1</item>
+        <item>Semester 2</item>
+    </string-array>
+</resources>
